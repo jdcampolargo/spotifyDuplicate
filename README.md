@@ -10,7 +10,6 @@ This Python script allows you to duplicate a public Spotify playlist to your own
 
 `pip install spotipy`
 
-
 3. Obtain Spotify API credentials:
 
 - Go to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/) and log in (or create an account if you don't have one).
