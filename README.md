@@ -47,7 +47,6 @@ Note: During the first run, you may be prompted to authorize the script to acces
 Juan David Campolargo
 [![Twitter Follow](https://img.shields.io/twitter/follow/jdcampolargo?style=social)](https://twitter.com/jdcampolargo)
 
-
 * [Website](https://juandavidcampolargo.com/)
 * [Twitter](https://twitter.com/jdcampolargo)
 * [LinkedIn](https://linkedin.com/in/jdcampolargo)
