@@ -9,7 +9,7 @@ client_secret = "YOUR CLIENT SECRET"
 redirect_uri = "http://localhost:8888/callback"  # This should match the redirect URI in your Spotify Developer Dashboard
 
 # Add the URL of the playlist you want to duplicate and the name of the new playlist
-public_playlist_url = "https://open.spotify.com/playlist/0b0gnO1cDXjPl5BINEWR4F?si=27417438759845e6"
+public_playlist_url = "YOUR PLAYLIST LINK"
 new_playlist_name = "My Duplicated Playlist"
 
 
