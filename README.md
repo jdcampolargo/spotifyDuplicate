@@ -1,5 +1,4 @@
 # Spotify Playlist Duplicator
-### Duplicate Spotify Playlists
 
 This Python script allows you to duplicate a public Spotify playlist to your own Spotify account. It utilizes the Spotify Web API and the Spotipy library.
 
