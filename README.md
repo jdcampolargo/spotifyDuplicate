@@ -42,9 +42,6 @@ The script will authenticate with Spotify, create a new playlist in your account
 
 Note: During the first run, you may be prompted to authorize the script to access your Spotify account. Follow the instructions provided in the terminal to complete the authorization process.
 
-
-
-
 ## Contact
 
 Juan David Campolargo

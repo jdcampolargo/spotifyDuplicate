@@ -49,6 +49,5 @@ def duplicate_playlist(public_playlist_url, new_playlist_name):
     print("Playlist duplicated successfully!")
 
 
-
 # Run the script and duplicate those BANGERS!!!!
 duplicate_playlist(public_playlist_url, new_playlist_name)
