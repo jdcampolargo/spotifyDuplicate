@@ -1,5 +1,4 @@
 # Duplicate Spotify Playlists
-[![Twitter Follow](https://img.shields.io/twitter/follow/jdcampolargo?style=social)](https://twitter.com/jdcampolargo)
 
 This Python script allows you to duplicate a public Spotify playlist to your own Spotify account. It utilizes the Spotify Web API and the Spotipy library.
 
@@ -50,6 +49,8 @@ Note: During the first run, you may be prompted to authorize the script to acces
 ## Contact
 
 Juan David Campolargo
+[![Twitter Follow](https://img.shields.io/twitter/follow/jdcampolargo?style=social)](https://twitter.com/jdcampolargo)
+
 
 * [Website](https://juandavidcampolargo.com/)
 * [Twitter](https://twitter.com/jdcampolargo)
